@@ -13,7 +13,7 @@ library(dplyr) #helps manipulation data
 #======================================================================
 
 getwd() #displays your working directory
-setwd("/Users/Oluchukwu Anene/Documents/Quantium Chips data") 
+setwd("/Users/Stephen Olet/Documents/Quantium Chips data") 
 
 
 #========================================================
