@@ -30,7 +30,7 @@ Everyday Python Sheets – your go-to resource for everyday Python cheat sheets,
 **[Project 4: Superstore Sales Dashboard with Streamlit]**
 
 Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
-[![Streamlit App](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/Streamlit%20Applications/img/project_3.gif)
+![Streamlit App](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/Streamlit%20Applications/img/project_3.gif)
 
 
 ## Technologies Used
