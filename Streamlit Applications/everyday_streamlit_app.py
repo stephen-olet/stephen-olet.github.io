@@ -111,4 +111,4 @@ elif page == "About":
         It's inspired by the Everyday Python app and designed for learning and practice.
         """
     )
-    st.info("Developed by [Stephen Olet].")
+    st.info("Developed by Stephen Olet.")
