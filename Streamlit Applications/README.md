@@ -2,36 +2,15 @@
 
 ## Project Previews
 
+**[Project 1: SACCO Loan Management App]**
 
-**[Project 1: Streamlit Magic Cheat Sheets]**
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cheat-sheets.streamlit.app/)
+SACCO Loan Management App – your all-in-one solution for managing SACCO members, savings, deposits, and loans with ease. This Streamlit application provides a user-friendly interface to register members, track financial transactions, calculate interest, and generate financial summaries. Whether you're overseeing a SACCO or looking for a transparent and efficient way to manage member finances, this app has everything you need to stay organized and informed.
+![Streamlit App](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/assets/img/sacco_app.gif)
 
-In the scope of this project, I have meticulously crafted comprehensive cheat sheets encompassing all aspects of Streamlit within a single Streamlit application. These cheat sheets are available in English, Français, and Deutsch, ensuring accessibility for a diverse audience. The application comprises over 15,000 lines of code, featuring custom functions meticulously designed to elucidate the visual output of the code snippets. Additionally, a robust documentation framework has been established to provide users with clear insights and guidance throughout their interaction with the application.
-![2](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/Streamlit%20Applications/img/project_1.gif)
-![Untitled design](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/Streamlit%20Applications/img/project_1b.gif)
+**[Project 2: Everyday Python - Streamlit App]**
 
----
-
-**[Project 2: Stats Mosaic Streamlit]** 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stats-mosaic-guide.streamlit.app/)
-
-Stats-Mosaic-Streamlit is a comprehensive GitHub repository that aims to provide a growing collection of curated content and projects centered around statistics and its intersection with data science, machine learning, and artificial intelligence.
-
-![chrome_SNMStZzShw](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/Streamlit%20Applications/img/project_2.gif)
----
-
-**[Project 3: Everyday Python Sheets]**
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://everyday-python.streamlit.app/)
-Everyday Python Sheets – your go-to resource for everyday Python cheat sheets, pro tips, interview questions, Python one-liners, and Python data structures. Whether you're a beginner looking to learn Python or an experienced developer seeking quick reference materials, this Streamlit application has got you covered.
-![Untitled design1](https://github.com/tushar2704/Everyday_Python/assets/66141195/66cdd8ee-99f6-4c45-8336-5d346b9535ae)
-
-
-
-**[Project 4: Superstore Sales Dashboard with Streamlit]**
-
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shipping analysis and Location analysis. 
-![Streamlit App](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/Streamlit%20Applications/img/project_3.gif)
-
+Everyday Python - Streamlit App is an interactive learning tool that showcases Python's capabilities through quick calculations, code examples, and data visualizations. Users can perform arithmetic operations, explore Python functions like Fibonacci sequences, and generate real-time charts using Streamlit and NumPy/Pandas. Whether you're a beginner or an experienced coder, this app serves as an engaging way to practice and refine Python skills.
+![Streamlit App](https://github.com/stephen-olet/stephen-olet.github.io/blob/master/assets/img/everyday_python.gif)
 
 ## Technologies Used
 
