@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NASA_TV" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="Science",NASA TV
+https://ntv1.akamaized.net/hls/live/2014040/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="BigBuckBunny" tvg-name="Test Loop 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Main_Poster.jpg" group-title="Testing",Big Buck Bunny Test Stream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="Sintel" tvg-name="Test Loop 2" group-title="Testing",Sintel Sci-Fi Test Stream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
