@@ -30,16 +30,22 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Love Nature
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Love Nature
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment channels",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
 https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Tastemade Home
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Tastemade Travel
 https://jmp2.uk/rok-95a0b94ff13a4dc14fea6e9eb47ecf09.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Terra Mater WILD English
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Nature Moments
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
