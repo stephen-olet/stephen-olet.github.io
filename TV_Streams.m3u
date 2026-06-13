@@ -16,8 +16,6 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 https://ott.god.tv/live/us/master.m3u8
 #EXTINF:-1 group-title="Christian channels",Dove Channel
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",GOD TV
-https://ott.god.tv/live/us/master.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Discovery Channel
@@ -29,7 +27,7 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",HGTV
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/HGTV/index.m3u8
+http://161.129.178.5/hgtv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
 https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
