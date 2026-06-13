@@ -28,3 +28,5 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",HGTV
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/HGTV/index.m3u8
