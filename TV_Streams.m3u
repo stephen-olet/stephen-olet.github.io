@@ -20,16 +20,6 @@ https://ott.god.tv/live/us/master.m3u8
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Victory Television Network
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Destination America
-http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",WeTV
-http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",RT Documentary English
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Love Nature
@@ -90,8 +80,6 @@ https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 group-title="Sports channels",beIN SPORTS Xtra
 https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
-#EXTINF:-1 group-title="Sports channels",Tennis+
-https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
 #EXTINF:-1 group-title="Sports channels",Scripps Sports Network
 https://jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8
 
