@@ -26,8 +26,6 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",HGTV
-http://84.17.50.102/hgtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
 https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
@@ -36,5 +34,13 @@ https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Antiques Roadshow
 https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8
+#EXTINF:-1 group-title="Entertainment channels",HGTV
+https://streamer1.nexgen.bz/HGTV/index.m3u8
+#EXTINF:-1 group-title="Cartoon channels",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon channels",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon channels",BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
 
