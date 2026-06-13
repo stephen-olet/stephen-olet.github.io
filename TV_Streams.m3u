@@ -10,12 +10,16 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 group-title="Christian channels",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1 group-title="Christian channels",Joel Osteen Network
+https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 #EXTINF:-1 group-title="Christian channels",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",GOD TV
 https://ott.god.tv/live/us/master.m3u8
 #EXTINF:-1 group-title="Christian channels",Dove Channel
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Christian channels",Victory Television Network
+https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Discovery Channel
@@ -26,21 +30,75 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Love Nature
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
 https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Tastemade Home
+https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Tastemade Travel
+https://jmp2.uk/rok-95a0b94ff13a4dc14fea6e9eb47ecf09.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Nature Moments
+https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
 https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS NETWORK
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Antiques Roadshow
 https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8
-#EXTINF:-1 group-title="Entertainment channels",HGTV
-https://streamer1.nexgen.bz/HGTV/index.m3u8
 #EXTINF:-1 group-title="Cartoon channels",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon channels",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon channels",BBC Cbeebies
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 group-title="Cartoon channels",Moonbug Kids
+https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
+#EXTINF:-1 group-title="Cartoon channels",Toony Planet
+https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
+#EXTINF:-1 group-title="News channels",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="News channels",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="News channels",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="News channels",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="News channels",BBC News (North America)
+https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+#EXTINF:-1 group-title="News channels",Euronews World
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+#EXTINF:-1 group-title="News channels",CTV News
+https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
+#EXTINF:-1 group-title="Sports channels",FOX Sports
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+#EXTINF:-1 group-title="Sports channels",Fubo Sports Network
+https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
+#EXTINF:-1 group-title="Sports channels",NBC Sports NOW
+https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
+#EXTINF:-1 group-title="Sports channels",SPORTSGRID
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+#EXTINF:-1 group-title="Sports channels",beIN SPORTS Xtra
+https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
+#EXTINF:-1 group-title="Sports channels",Tennis+
+https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
+#EXTINF:-1 group-title="Sports channels",Tennis+
+https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
+#EXTINF:-1 group-title="Sports channels",Billiard TV
+https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8
+#EXTINF:-1 group-title="Sports channels",Scripps Sports Network
+https://jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
