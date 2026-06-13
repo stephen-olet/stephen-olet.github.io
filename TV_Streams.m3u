@@ -18,5 +18,13 @@ https://ott.god.tv/live/us/master.m3u8
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",GOD TV
 https://ott.god.tv/live/us/master.m3u8
-#EXTINF:-1 group-title="Entertainment channels",GOD TV
-https://ott.god.tv/live/us/master.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",WeTV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment channels",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
