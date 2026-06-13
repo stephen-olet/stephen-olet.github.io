@@ -27,7 +27,7 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",HGTV
-http://161.129.178.5/hgtv/playlist.m3u8
+http://84.17.50.102/hgtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
 https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
