@@ -74,8 +74,6 @@ https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
 #EXTINF:-1 group-title="Sports channels",Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports channels",TyC Sports
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 #EXTINF:-1 group-title="Sports channels",Cazé TV (Brazil)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="Sports channels",World of Freesports
