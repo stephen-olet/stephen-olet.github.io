@@ -12,6 +12,8 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Victory Television Network
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Christian channels",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 group-title="Entertainment channels",RT Documentary English
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Love Nature
