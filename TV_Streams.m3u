@@ -4,16 +4,12 @@ https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
 #EXTINF:-1 group-title="Christian channels",CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
-#EXTINF:-1 group-title="Christian channels",CBN Gospel
-https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 #EXTINF:-1 group-title="Christian channels",Joel Osteen Network
 https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 #EXTINF:-1 group-title="Christian channels",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",GOD TV
-https://ott.god.tv/live/us/master.m3u8
 #EXTINF:-1 group-title="Christian channels",Dove Channel
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Victory Television Network
@@ -40,6 +36,8 @@ https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS NETWORK
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Food NETWORK
+http://41.223.30.230/FOODNETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Antiques Roadshow
 https://jmp2.uk/rok-856fca464da0544784204ba8f6161dac.m3u8
 #EXTINF:-1 group-title="Cartoon channels",Gospel Cartoon
@@ -64,6 +62,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 group-title="News channels",BBC News (North America)
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+#EXTINF:-1 group-title="News channels",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="News channels",Euronews World
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="News channels",CTV News
@@ -78,5 +78,9 @@ https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 group-title="Sports channels",beIN SPORTS Xtra
 https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
-#EXTINF:-1 group-title="Sports channels",Scripps Sports Network
-https://jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8
+#EXTINF:-1 group-title="Sports channels",Racer Select
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports channels",TyC Sports
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-1 group-title="Sports channels",Cazé TV (Brazil)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
