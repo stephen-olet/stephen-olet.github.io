@@ -54,10 +54,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
 https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
-#EXTINF:-1 group-title="Cartoon channels",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon channels",PBS Kids Eastern/Central
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="Cartoon channels",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 group-title="Cartoon channels",PBS Kids Mountain
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 group-title="Cartoon channels",Moonbug Kids
 https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 #EXTINF:-1 group-title="News channels",Al Jazeera
