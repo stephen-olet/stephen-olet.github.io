@@ -18,6 +18,8 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",XITE Gospel
 https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
+#EXTINF:-1 group-title="Christian channels",Elevation Church
+https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Victory Television Network
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",RT Documentary
