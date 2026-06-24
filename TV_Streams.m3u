@@ -42,6 +42,8 @@ https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
 https://jmp2.uk/rok-95a0b94ff13a4dc14fea6e9eb47ecf09.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+#EXTINF:-1 group-title="Entertainment channels",NatureTime
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Go2Travel
