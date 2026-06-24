@@ -56,6 +56,8 @@ https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 #EXTINF:-1 group-title="Cartoon channels",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Cartoon channels",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 group-title="Cartoon channels",Moonbug Kids
 https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 #EXTINF:-1 group-title="News channels",Al Jazeera
