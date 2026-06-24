@@ -16,6 +16,8 @@ https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGci
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Dove Channel
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Christian channels",XITE Gospel
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 #EXTINF:-1 group-title="Christian channels",Victory Television Network
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",RT Documentary
