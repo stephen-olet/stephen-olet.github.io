@@ -22,6 +22,8 @@ https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment channels",HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Love Nature
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 group-title="Entertainment channels",WildEarth
