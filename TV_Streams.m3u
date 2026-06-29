@@ -24,8 +24,8 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",HGTV
 https://i.mjh.nz/.r/sky-hgtv.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Love Nature
-https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 group-title="Entertainment channels",Documentary+
+https://jmp2.uk/stvp-CABC2300019UD
 #EXTINF:-1 group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
@@ -78,6 +78,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="News channels",CTV News
 https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
+#EXTINF:-1 group-title="News channels",Bloomberg TV+
+https://jmp2.uk/stvp-CHBA3300018TD
 #EXTINF:-1 group-title="Sports channels",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 group-title="Sports channels",Rally TV
