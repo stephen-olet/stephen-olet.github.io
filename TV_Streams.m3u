@@ -28,8 +28,6 @@ https://i.mjh.nz/.r/sky-hgtv.m3u8
 https://jmp2.uk/stvp-CABC2300019UD
 #EXTINF:-1 group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="Entertainment channels",PBS Food
-https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Tastemade Home
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Tastemade Travel
@@ -46,6 +44,8 @@ https://go2thls.wns.live/hls/stream.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Nature Moments
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
+#EXTINF:-1 group-title="Entertainment channels",PBS Food
+https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Travel
 https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8
 #EXTINF:-1 group-title="Cartoon channels",PBS Kids Eastern/Central
@@ -70,6 +70,8 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="News channels",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="News channels",Bloomberg TV+
+https://jmp2.uk/stvp-CHBA3300018TD
 #EXTINF:-1 group-title="News channels",BBC News (North America)
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 #EXTINF:-1 group-title="News channels",BBC News
@@ -78,8 +80,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="News channels",CTV News
 https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
-#EXTINF:-1 group-title="News channels",Bloomberg TV+
-https://jmp2.uk/stvp-CHBA3300018TD
 #EXTINF:-1 group-title="Sports channels",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 group-title="Sports channels",Rally TV
