@@ -26,8 +26,10 @@ https://i.mjh.nz/.r/sky-hgtv.m3u8
 https://jmp2.uk/stvp-CABC2300019UD
 #EXTINF:-1 group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Tastemade
+#EXTINF:-1 group-title="Entertainment channels",Tastemade1
 https://jmp2.uk/rok-e6416436e5d6510e9e22c23862deea23.m3u8
+#EXTINF:-1 group-title="Entertainment channels",Tastemade2
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Tastemade Smokehouse
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Tastemade Home
