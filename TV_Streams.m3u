@@ -78,6 +78,8 @@ https://jmp2.uk/stvp-CHBA3300018TD
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 #EXTINF:-1 group-title="News channels",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="News channels",Sky News
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951223&ads.xumo_streamId=99951223&ads.channelId=99951223&ads.channelName=SkyNews&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads.genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_coppa=0&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads.asnw=&ads.xumo_channelName=SkyNews&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=726204a7-2efc-4963-8a54-63df07a28300&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 group-title="News channels",Euronews World
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="News channels",CTV News
