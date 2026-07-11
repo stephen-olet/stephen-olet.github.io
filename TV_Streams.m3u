@@ -84,6 +84,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?includeAsset
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="News channels",CBS News
 https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
+#EXTINF:-1 group-title="News channels",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 group-title="News channels",CTV News
 https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
 #EXTINF:-1 group-title="Sports channels",FOX Sports
