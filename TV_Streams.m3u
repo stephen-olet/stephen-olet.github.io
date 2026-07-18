@@ -78,6 +78,8 @@ https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-scrippsnews-tablo/playlist.m3u8
 #EXTINF:-1 group-title="News channels",CTV News
 https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
+#EXTINF:-1 group-title="News channels",DW English
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 group-title="Sports channels",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 group-title="Sports channels",Rally TV
