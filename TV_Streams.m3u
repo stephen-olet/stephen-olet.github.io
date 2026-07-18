@@ -6,8 +6,6 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.is
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 #EXTINF:-1 group-title="Christian channels",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
-#EXTINF:-1 group-title="Christian channels",The Word Network
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Joel Osteen Network
 https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 #EXTINF:-1 group-title="Christian channels",Daystar TV
@@ -16,8 +14,6 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Pure Flix TV
 https://s10host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host5.localnow.api.cms.amdvids.com&ads.playbackid=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n4=content_name&ads.v4=Pure%20Flix%20TV&ads.n21=channel_ext_id&ads.v21=&ads.n22=us_privacy&ads.v22=1YNY&ads.n23=device_model&ads.v23=&ads.n24=ifa_type&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=content_producer_name&ads.v26=GAC%20Media%20LLC&ads.n27=pos&ads.v27=midroll&ads.n28=channel_name&ads.v28=Pure%20Flix%20TV&ads.n29=ua&ads.v29=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n30=channel_company_id&ads.v30=AMDP500566&ads.n31=w&ads.v31=1920&ads.n32=network_name&ads.v32=pure-flix-tv&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=channel_id&ads.v34=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n35=device_make&ads.v35=&ads.n36=gpp_sid&ads.v36=&ads.n37=app_name&ads.v37=&ads.n38=app_bundle&ads.v38=&ads.n39=content_custom_1_param&ads.v39=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n40=device_type&ads.v40=&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=content_livestream&ads.v42=1&ads.n43=did&ads.v43=&ads.n44=channel_title&ads.v44=Pure%20Flix%20TV&ads.n45=content_type&ads.v45=channel&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=content_provider&ads.v47=pure-flix-tv&ads.n48=channel_corp&ads.v48=GAC%20Media%20LLC&ads.n49=channel_brand_id&ads.v49=AMDB013674&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=app_store_url&ads.v51=&ads.n52=content_custom_2_param&ads.v52=AMDB013674&ads.n53=h&ads.v53=1080&ads.n54=channel_genre&ads.v54=Family%2CFaith&ads.n55=dnt&ads.v55=&ads.n56=gpp&ads.v56=&ads.n57=ip&ads.v57=185.217.168.164&ads.n58=channel_language&ads.v58=en
-#EXTINF:-1 group-title="Christian channels",God's Learning Channel
-https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Elevation Church
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Victory Television Network
@@ -36,20 +32,10 @@ https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-in
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Gusto
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Homeful
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulus-tablo/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Tastemade Travel
-https://jmp2.uk/rok-95a0b94ff13a4dc14fea6e9eb47ecf09.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="Entertainment channels",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",4K Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Go2Travel
-https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Luxury Dreams TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Nature Moments
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
 #EXTINF:-1 group-title="Entertainment channels",PBS Food
@@ -100,8 +86,6 @@ https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
 #EXTINF:-1 group-title="Sports channels",SPORTSGRID
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
-#EXTINF:-1 group-title="Sports channels",World of Freesports
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports channels",Sports First
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 #EXTINF:-1 group-title="Sports channels",Goal TV
@@ -114,8 +98,6 @@ https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 group-title="Sports channels",Strongman Champions League
 https://56c869c109ed45988a031993300b0840.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-ca_StrongmanChampionsLeague/playlist.m3u8
-#EXTINF:-1 group-title="Sports channels",World Surf League
-https://jmp2.uk/rok-4152241b9d223469e331491b1afad685.m3u8
 #EXTINF:-1 group-title="Sports channels",Tennis+
 https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
 #EXTINF:-1 group-title="Sports channels",The NBA Channel
