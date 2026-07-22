@@ -64,8 +64,6 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="News channels",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="News channels",Bloomberg TV+
-https://jmp2.uk/stvp-CHBA3300018TD
 #EXTINF:-1 group-title="News channels",BBC News (North America)
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 #EXTINF:-1 group-title="News channels",BBC News
