@@ -10,8 +10,6 @@ https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c
 https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 #EXTINF:-1 group-title="Christian channels",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",Dove Channel
-https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",Pure Flix TV
 https://s10host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host5.localnow.api.cms.amdvids.com&ads.playbackid=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n4=content_name&ads.v4=Pure%20Flix%20TV&ads.n21=channel_ext_id&ads.v21=&ads.n22=us_privacy&ads.v22=1YNY&ads.n23=device_model&ads.v23=&ads.n24=ifa_type&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=content_producer_name&ads.v26=GAC%20Media%20LLC&ads.n27=pos&ads.v27=midroll&ads.n28=channel_name&ads.v28=Pure%20Flix%20TV&ads.n29=ua&ads.v29=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n30=channel_company_id&ads.v30=AMDP500566&ads.n31=w&ads.v31=1920&ads.n32=network_name&ads.v32=pure-flix-tv&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=channel_id&ads.v34=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n35=device_make&ads.v35=&ads.n36=gpp_sid&ads.v36=&ads.n37=app_name&ads.v37=&ads.n38=app_bundle&ads.v38=&ads.n39=content_custom_1_param&ads.v39=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n40=device_type&ads.v40=&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=content_livestream&ads.v42=1&ads.n43=did&ads.v43=&ads.n44=channel_title&ads.v44=Pure%20Flix%20TV&ads.n45=content_type&ads.v45=channel&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=content_provider&ads.v47=pure-flix-tv&ads.n48=channel_corp&ads.v48=GAC%20Media%20LLC&ads.n49=channel_brand_id&ads.v49=AMDB013674&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=app_store_url&ads.v51=&ads.n52=content_custom_2_param&ads.v52=AMDB013674&ads.n53=h&ads.v53=1080&ads.n54=channel_genre&ads.v54=Family%2CFaith&ads.n55=dnt&ads.v55=&ads.n56=gpp&ads.v56=&ads.n57=ip&ads.v57=185.217.168.164&ads.n58=channel_language&ads.v58=en
 #EXTINF:-1 group-title="Christian channels",Elevation Church
@@ -54,8 +52,6 @@ https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 https://jmp2.uk/stvp-ES2300004XW
 #EXTINF:-1 group-title="News channels",Africa 24
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 group-title="News channels",CBS News
-https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
 #EXTINF:-1 group-title="News channels",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="News channels",CGTN Documentary
