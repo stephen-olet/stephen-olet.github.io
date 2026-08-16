@@ -88,12 +88,11 @@ https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports channels",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/319447.m3u8
+https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 #EXTINF:-1 group-title="Sports channels",Scripps Sports Network
 https://jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8
 #EXTINF:-1 group-title="Sports channels",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951383&ads.xumo_streamId=99951383&ads.channelId=99951383&ads.channelName=NBAFASTChannel&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_coppa=0&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads.asnw=&ads.xumo_channelName=NBAFASTChannel&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=c4decb55-8c93-4df9-98fa-2259906931f2&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 #EXTINF:-1 group-title="Sports channels",Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-#EXTVLCOPT:http-referrer=https://7nyaler.streamhostingcdn.top/
 https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
