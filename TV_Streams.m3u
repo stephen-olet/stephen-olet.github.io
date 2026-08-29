@@ -64,3 +64,5 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="News channels",Euronews World
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+#EXTINF:-1 group-title="News channels",Sky Sports Main
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/319447.m3u8
