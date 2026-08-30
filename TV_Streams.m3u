@@ -72,3 +72,5 @@ http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/9314/index.m3u8
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/271190.m3u8
 #EXTINF:-1 group-title="News channels",USA Network
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:-1 group-title="News channels",Sky Sports Main Event2
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/319447.m3u8
