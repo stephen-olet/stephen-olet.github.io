@@ -20,6 +20,8 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 group-title="Entertainment channels",NAT GEO WILD
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",BBC Earth
@@ -68,3 +70,5 @@ https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/9314/index.m3u8
 #EXTINF:-1 group-title="News channels",Sky Sports Main Event
 http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/271190.m3u8
+#EXTINF:-1 group-title="News channels",NBA USA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
