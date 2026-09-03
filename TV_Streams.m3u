@@ -2,8 +2,6 @@
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Christian channels",CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
-#EXTINF:-1 group-title="Christian channels",CBN News Network
-https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.we4wOrq2aDcRKm36Umdh2QeTMTq6rY--FgTP2uVyIu8/playlist-hls.m3u8
 #EXTINF:-1 group-title="Christian channels",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 #EXTINF:-1 group-title="Christian channels",Joel Osteen Network
@@ -22,10 +20,6 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="Entertainment channels",National Geographic East
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 group-title="Entertainment channels",National Geographic Wild
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Entertainment channels",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment channels",BBC Earth
