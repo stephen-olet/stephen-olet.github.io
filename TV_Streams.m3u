@@ -1,64 +1,66 @@
-#EXTINF:-1 group-title="Christian channels",Faith TV
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz"
+
+#EXTINF:-1 tvg-id="FaithTV" group-title="Christian channels",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",CBN Family
+#EXTINF:-1 tvg-id="CBNFamily" group-title="Christian channels",CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8
-#EXTINF:-1 group-title="Christian channels",Gospel Truth TV
+#EXTINF:-1 tvg-id="GospelTruthTV" group-title="Christian channels",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
-#EXTINF:-1 group-title="Christian channels",Joel Osteen Network
+#EXTINF:-1 tvg-id="JoelOsteen" group-title="Christian channels",Joel Osteen Network
 https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
-#EXTINF:-1 group-title="Christian channels",Daystar TV
+#EXTINF:-1 tvg-id="Daystar" group-title="Christian channels",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",Genesis Science Network
+#EXTINF:-1 tvg-id="GenesisScience" group-title="Christian channels",Genesis Science Network
 https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",Pure Flix TV
+#EXTINF:-1 tvg-id="PureFlix" group-title="Christian channels",Pure Flix TV
 https://s10host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host5.localnow.api.cms.amdvids.com&ads.playbackid=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n4=content_name&ads.v4=Pure%20Flix%20TV&ads.n21=channel_ext_id&ads.v21=&ads.n22=us_privacy&ads.v22=1YNY&ads.n23=device_model&ads.v23=&ads.n24=ifa_type&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=content_producer_name&ads.v26=GAC%20Media%20LLC&ads.n27=pos&ads.v27=midroll&ads.n28=channel_name&ads.v28=Pure%20Flix%20TV&ads.n29=ua&ads.v29=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n30=channel_company_id&ads.v30=AMDP500566&ads.n31=w&ads.v31=1920&ads.n32=network_name&ads.v32=pure-flix-tv&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=channel_id&ads.v34=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n35=device_make&ads.v35=&ads.n36=gpp_sid&ads.v36=&ads.n37=app_name&ads.v37=&ads.n38=app_bundle&ads.v38=&ads.n39=content_custom_1_param&ads.v39=8CA12BB0-5B8F-4696-9B09-42C1D0D4F366&ads.n40=device_type&ads.v40=&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=content_livestream&ads.v42=1&ads.n43=did&ads.v43=&ads.n44=channel_title&ads.v44=Pure%20Flix%20TV&ads.n45=content_type&ads.v45=channel&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=content_provider&ads.v47=pure-flix-tv&ads.n48=channel_corp&ads.v48=GAC%20Media%20LLC&ads.n49=channel_brand_id&ads.v49=AMDB013674&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=app_store_url&ads.v51=&ads.n52=content_custom_2_param&ads.v52=AMDB013674&ads.n53=h&ads.v53=1080&ads.n54=channel_genre&ads.v54=Family%2CFaith&ads.n55=dnt&ads.v55=&ads.n56=gpp&ads.v56=&ads.n57=ip&ads.v57=185.217.168.164&ads.n58=channel_language&ads.v58=en
-#EXTINF:-1 group-title="Christian channels",Elevation Church
+#EXTINF:-1 tvg-id="ElevationChurch" group-title="Christian channels",Elevation Church
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Christian channels",Victory Television Network
+#EXTINF:-1 tvg-id="VictoryTV" group-title="Christian channels",Victory Television Network
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",HGTV
+#EXTINF:-1 tvg-id="HGTV" group-title="Entertainment channels",HGTV
 https://i.mjh.nz/.r/sky-hgtv.m3u8
-#EXTINF:-1 group-title="Entertainment channels",WildEarth
+#EXTINF:-1 tvg-id="WildEarth" group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Discovering China
+#EXTINF:-1 tvg-id="DiscoveringChina" group-title="Entertainment channels",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarth" group-title="Entertainment channels",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Tastemade
+#EXTINF:-1 tvg-id="Tastemade" group-title="Entertainment channels",Tastemade
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Tastemade Home
+#EXTINF:-1 tvg-id="TastemadeHome" group-title="Entertainment channels",Tastemade Home
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Wild Planet
+#EXTINF:-1 tvg-id="WildPlanet" group-title="Entertainment channels",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
-#EXTINF:-1 group-title="Entertainment channels",NatureTime
+#EXTINF:-1 tvg-id="NatureTime" group-title="Entertainment channels",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment channels",Nature Moments
+#EXTINF:-1 tvg-id="NatureMoments" group-title="Entertainment channels",Nature Moments
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
-#EXTINF:-1 group-title="Cartoon channels",PBS Kids Eastern/Central
+#EXTINF:-1 tvg-id="PBSKidsEast" group-title="Cartoon channels",PBS Kids Eastern/Central
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 group-title="Cartoon channels",PBS Kids Pacific
+#EXTINF:-1 tvg-id="PBSKidsPacific" group-title="Cartoon channels",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 group-title="Cartoon channels",PBS Kids Mountain
+#EXTINF:-1 tvg-id="PBSKidsMountain" group-title="Cartoon channels",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 group-title="Cartoon channels",Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="Cartoon channels",Moonbug Kids
 https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
-#EXTINF:-1 group-title="News channels",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeera" group-title="News channels",Al Jazeera
 https://jmp2.uk/stvp-ES2300004XW
-#EXTINF:-1 group-title="News channels",Africa 24
+#EXTINF:-1 tvg-id="Africa24" group-title="News channels",Africa 24
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 group-title="News channels",CGTN
+#EXTINF:-1 tvg-id="CGTN" group-title="News channels",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="News channels",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary" group-title="News channels",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 group-title="News channels",DW English
+#EXTINF:-1 tvg-id="DWEnglish" group-title="News channels",DW English
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 group-title="News channels",France 24
+#EXTINF:-1 tvg-id="France24" group-title="News channels",France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="News channels",Scripps News
+#EXTINF:-1 tvg-id="ScrippsNews" group-title="News channels",Scripps News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-scrippsnews-tablo/playlist.m3u8
-#EXTINF:-1 group-title="News channels",Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTV" group-title="News channels",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="News channels",Yahoo! Finance
+#EXTINF:-1 tvg-id="YahooFinance" group-title="News channels",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="News channels",BBC News
+#EXTINF:-1 tvg-id="BBCNews" group-title="News channels",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
