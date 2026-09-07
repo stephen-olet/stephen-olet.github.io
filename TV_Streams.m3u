@@ -30,6 +30,8 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeHome" group-title="Entertainment channels",Tastemade Home
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
+#EXTINF:-1 tvg-id="NBCLXHome" group-title="Entertainment channels",NBC LX Home
+https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="WildPlanet" group-title="Entertainment channels",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-id="NatureTime" group-title="Entertainment channels",NatureTime
