@@ -64,3 +64,7 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews" group-title="News channels",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCNews" group-title="News channels",Sky Sports Main Event
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/271189.m3u8
+#EXTINF:-1 tvg-id="BBCNews" group-title="News channels",Sky Sports Main Event
+http://alienstreams.fi:8080/live/asdfasdf/asdfasdf/271189.m3u8
