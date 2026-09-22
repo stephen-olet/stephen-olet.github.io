@@ -20,8 +20,6 @@ https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="WildEarth" group-title="Entertainment channels",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina" group-title="Entertainment channels",Discovering China
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" group-title="Entertainment channels",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade" group-title="Entertainment channels",Tastemade
@@ -64,3 +62,5 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews" group-title="News channels",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="beINSportsXtra" group-title="Sports channels",beIN Sports Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
