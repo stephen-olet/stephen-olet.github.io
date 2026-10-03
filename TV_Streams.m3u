@@ -18,6 +18,8 @@ https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" group-title="Entertainment channels",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryTime" group-title="Entertainment channels",History Time
+Converting https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade" group-title="Entertainment channels",Tastemade
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeHome" group-title="Entertainment channels",Tastemade Home
@@ -30,6 +32,8 @@ https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureMoments" group-title="Entertainment channels",Nature Moments
 https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8
+#EXTINF:-1 tvg-id="MrBean" group-title="Entertainment channels",Mr Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEast" group-title="Cartoon channels",PBS Kids Eastern/Central
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific" group-title="Cartoon channels",PBS Kids Pacific
