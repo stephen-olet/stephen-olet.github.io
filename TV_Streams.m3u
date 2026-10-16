@@ -28,8 +28,6 @@ https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:-1 tvg-id="NatureTime" group-title="Entertainment channels",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork" group-title="Entertainment channels",Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MrBean" group-title="Entertainment channels",Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEast" group-title="Cartoon channels",PBS Kids Eastern/Central
