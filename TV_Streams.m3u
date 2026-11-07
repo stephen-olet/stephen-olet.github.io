@@ -60,8 +60,12 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews" group-title="News channels",Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-id="BloombergTV" group-title="News channels",Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTV" group-title="News channels",Bloomberg Television (Europe)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTV" group-title="News channels",Bloomberg Television (US)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="Ausbiz" group-title="News channels",Ausbiz
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="YahooFinance" group-title="News channels",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews" group-title="News channels",BBC News
