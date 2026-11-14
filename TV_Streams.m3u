@@ -20,8 +20,6 @@ https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade" group-title="Entertainment channels",Tastemade
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeHome" group-title="Entertainment channels",Tastemade Home
-https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
 #EXTINF:-1 tvg-id="NBCLXHome" group-title="Entertainment channels",NBC LX Home
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="WildPlanet" group-title="Entertainment channels",Wild Planet
@@ -54,8 +52,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish" group-title="News channels",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="France24" group-title="News channels",France 24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX" group-title="News channels",LiveNOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews" group-title="News channels",Scripps News
@@ -64,8 +60,6 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News channels",Bloomberg Television (US)
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="Ausbiz" group-title="News channels",Ausbiz
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="YahooFinance" group-title="News channels",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews" group-title="News channels",BBC News
