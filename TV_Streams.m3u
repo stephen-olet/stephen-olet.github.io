@@ -41,8 +41,8 @@ https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBean" group-title="Entertainment channels",Mr Bean Live Action
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Everybody" group-title="Entertainment channels",Everybody Hates Chris
-https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboTV" group-title="Entertainment channels",Discovery Turbo TV
+https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEast" group-title="Cartoon channels",PBS Kids Eastern/Central
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific" group-title="Cartoon channels",PBS Kids Pacific
